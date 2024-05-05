@@ -3,13 +3,11 @@
     padding: 0;
     box-sizing: border-box;
   }
-  
   body {
     background-color: black;
     color: white;
     font-family: "Poppins", sans-serif;
   }
-  
   .navbar {
     position: absolute;
     top: 0;
@@ -19,7 +17,6 @@
     padding: 3% 5%;
     z-index: 10;
   }
-  
   .navbar__brand {
     width: 100px;
     height: 100%;
